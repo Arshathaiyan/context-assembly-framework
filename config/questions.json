@@ -1,0 +1,89 @@
+[
+  {
+    "question_id": "business_name",
+    "label": "What is the name of your coffee cafe?",
+    "type": "text",
+    "required": true,
+    "category": "business"
+  },
+  {
+    "question_id": "objective",
+    "label": "What is the main objective of your cafe?",
+    "type": "text",
+    "required": true,
+    "category": "objective"
+  },
+  {
+    "question_id": "target_audience",
+    "label": "Who is your target audience?",
+    "type": "text",
+    "required": true,
+    "category": "audience"
+  },
+  {
+    "question_id": "location",
+    "label": "Where is your coffee cafe located?",
+    "type": "text",
+    "required": true,
+    "category": "location"
+  },
+  {
+    "question_id": "speciality",
+    "label": "What is your cafe's speciality?",
+    "type": "text",
+    "required": true,
+    "category": "speciality"
+  },
+  {
+    "question_id": "tone",
+    "label": "Select your brand communication tone",
+    "type": "select",
+    "options": [
+      "Friendly",
+      "Professional",
+      "Casual",
+      "Luxury"
+    ],
+    "required": true,
+    "category": "tone"
+  },
+  {
+    "question_id": "menu_items",
+    "label": "What are your best-selling coffee or food items?",
+    "type": "text",
+    "required": true,
+    "category": "menu"
+  },
+  {
+    "question_id": "price_range",
+    "label": "Select your price range",
+    "type": "select",
+    "options": [
+      "Budget",
+      "Medium",
+      "Premium"
+    ],
+    "required": true,
+    "category": "pricing"
+  },
+  {
+    "question_id": "promotion_channel",
+    "label": "Which platform do you want to promote your cafe on?",
+    "type": "select",
+    "options": [
+      "Instagram",
+      "Facebook",
+      "WhatsApp",
+      "Website"
+    ],
+    "required": true,
+    "category": "marketing"
+  },
+  {
+    "question_id": "offers",
+    "label": "Do you have any special offers or discounts?",
+    "type": "text",
+    "required": false,
+    "category": "offers"
+  }
+]

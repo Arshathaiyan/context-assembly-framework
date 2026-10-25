@@ -1,0 +1,29 @@
+Business Name:
+{business_name}
+
+Objective:
+{objective}
+
+Target Audience:
+{target_audience}
+
+Location:
+{location}
+
+Speciality:
+{speciality}
+
+Brand Tone:
+{tone}
+
+Best-Selling Items:
+{menu_items}
+
+Price Range:
+{price_range}
+
+Promotion Channel:
+{promotion_channel}
+
+Special Offers:
+{offers}

@@ -1,0 +1,12 @@
+Project Overview: {{project_overview}}
+Business Type: {{business_type}}
+Target Customer: {{target_customer}}
+Watch Category: {{watch_category}}
+Brands: {{brands}}
+Price Range: {{price_range}}
+Strap Material: {{strap_material}}
+Dial Shape: {{dial_shape}}
+Preferred Colors: {{preferred_colors}}
+Special Features: {{special_features}}
+Warranty: {{warranty}}
+Delivery Preference: {{delivery_preference}}

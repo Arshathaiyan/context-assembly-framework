@@ -1,0 +1,25 @@
+# Python files
+
+**pycache**/
+*.pyc
+venv/
+.venv/
+
+# API keys and environment variables
+
+.env
+.env.*
+
+# Allow example environment configuration
+
+!.env.example
+
+# Local databases
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Editor files
+
+.vscode/
